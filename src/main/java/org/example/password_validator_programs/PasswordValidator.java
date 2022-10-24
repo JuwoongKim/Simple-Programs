@@ -2,7 +2,7 @@ package org.example.password_validator_programs;
 
 public class PasswordValidator {
 
-    public void validator(String password) {
+    public void validate(String password) {
 
         int length = password.length();
 
